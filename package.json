@@ -71,7 +71,7 @@
     "passport": "^0.3.2",
     "passport-google-oauth2": "^0.1.6",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
+    "react-dom": "^16.0.1",
     "react-google-login": "^2.8.9",
     "react-modal": "^1.7.7",
     "react-notification-system": "^0.2.14",
